@@ -6,7 +6,11 @@ html,body {
 	overflow-x: hidden;
 }
 
-
+.navbar {
+	background-image: linear-gradient(to top, rgba(0,0,1,0), rgba(0,0,0,1));
+	font-weight: bold;
+ 	
+}
 
 .container h1 {
 	color: white;
